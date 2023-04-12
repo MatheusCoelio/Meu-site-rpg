@@ -8,6 +8,7 @@ div.texto {background-color: transparent;
     color: white;
     position: relative;
     font-family: georgia;
+    text-shadow: 2px 0px 5px black;
 }
 /* botao HOME*/
     div.home {background-color: transparent;
@@ -22,7 +23,7 @@ div.centro {
     width: 1000px;
     height: 1000px;
     border-radius: 3%;    
-    opacity: 0.20;
+    opacity: 0.10;
     position: absolute;
     margin-left: 22%;
     margin-right: 25%;

@@ -1,6 +1,7 @@
-body{ background-image: url('FUNDO.jpg');
+body { background-image: url(FUNDO.jpg); 
     
-
+    
+    
 }
 
 /* TEXTO*/
@@ -19,14 +20,13 @@ div.texto {background-color: transparent;
 
 /* colocar a div como ABSOLUTE para conseguir deslocar ela, a anterior precisa estar como RELATIVE*/
 div.centro {
-    background-color: black;
-    width: 1000px;
-    height: 1000px;
-    border-radius: 3%;    
-    opacity: 0.10;
+    background-color:#160b30;
+    width: 100%;
+    height: 100%;
+    opacity: 0.90;
     position: absolute;
-    margin-left: 22%;
-    margin-right: 25%;
+    margin-left: auto;
+    margin-right: auto;
     }
 
 h1{color: white;

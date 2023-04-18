@@ -6,7 +6,7 @@ Este site tem o intuito de compartilhar a história do RPG que jogo a mais de 6 
 Aqui você encontrará um mundo de fantasia baseado no sistema de jogo de D&D e nos maiores blockbusters dos cinema.
 
 ## Detalhes técnicos 🛠
-As linguagens usadas para a arquitetura do site foram:<br>
+### As linguagens usadas para a arquitetura do site foram:<br>
 
 <li>HTML</li>
 <li>CSS</li>

@@ -1,8 +1,8 @@
 # Meu-site-rpg <img src="https://cdn3.emoji.gg/emojis/d20.png" width="35px" height="35px" alt="d20">
-Meu site sobre a historia de um mundo de fantásia.
+Site sobre a historia de um mundo de fantásia.
 
 ## História 📖
-Este site tem o intuito de compartilhar a história do RPG que jogo a mais de 6 anos.<br>
+Este site tem o intuito de compartilhar a história do RPG que jogo há mais de 6 anos.<br>
 Aqui você encontrará um mundo de fantasia baseado no sistema de jogo de D&D e nos maiores blockbusters dos cinema.
 
 ## Detalhes técnicos 🛠

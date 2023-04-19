@@ -1,12 +1,14 @@
 body{ background-image: url(imagens/home.jpg);
   
-  }
+}
 
 button {
   background-color: black;
   border-radius: 10%;
   width: 150px;
   height: 40px;
+  color:white;
+  font-family: georgia;
 }
 
 a {
@@ -15,3 +17,5 @@ a {
   text-decoration: none;
 }
   
+header {width: 500px;
+  height: 400px;}

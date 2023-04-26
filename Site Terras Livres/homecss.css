@@ -11,9 +11,8 @@ body{ background-image: url(imagens/homee.jpg);
   top: 0;
   backdrop-filter: blur(0.8px);
   display: flex;
-  justify-content: center ;
+  justify-content: center;
   align-items: center;
-  
   
 }
 
@@ -33,4 +32,3 @@ a {
   color: white;
   text-decoration: none;
 }
-

@@ -16,20 +16,21 @@ header {
     width: 100%;
     height: 40px;
     background-color: transparent;
-    width: 100%;
-    color:black;
     font-size: 20px;
+    margin-left:-10px;
+    margin-right: 6px;
+    margin-top: -9px;
+    
+    
     
 }
 
 .menu {
     padding: 10px;
-    color: black;
-    
+    color: white;
+    text-shadow: 2px 0px 5px black;
     
 }
-
-
 
 /* links*/
 a {
@@ -37,12 +38,23 @@ a {
 }
 
 #corpo { background-color: white;
-    float: left;
+    float: bottom;
+    margin-left:3px;
+    margin-right: 3px;
+    margin-top: 1000px;
+    
+
 }
+
+
+#titulo{ background-color: white;
+    
+
+}
+
 /* TEXTO*/
 div.texto {background-color: transparent;
     color: white;
-    position: relative;
     font-family: georgia;
     text-shadow: 2px 0px 5px black;
 }
@@ -51,7 +63,7 @@ div.texto {background-color: transparent;
 h1{color: white;
     text-shadow: 2px 0px 8px black;
     font-family: georgia;
-    position: center;
+    
                  
     
 }

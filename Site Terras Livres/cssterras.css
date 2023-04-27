@@ -5,7 +5,7 @@ body { background-image: url(fundo_home.jpg);
     background-size: cover;
     bottom: 0;
     left: -10px;
-    right: -18px;
+    right: -12px;
     top: 0;
     overflow: auto;
     
@@ -43,6 +43,7 @@ li {
     float: bottom;
     background-size: cover;
     width: 100%;
+    
     
 }
 

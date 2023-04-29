@@ -18,17 +18,22 @@ body{ background-image: url(homee.jpg);
 
 button {
   background-color: white;
-  border-radius: 10%;
+  border-radius: 50em;
   width: 150px;
   height: 40px;
   color:black;
   font-family: georgia;
   font-size: large;
   cursor: pointer;
+  border-color: black;
+  
 }
 
-a {
-  font-family: georgia;
-  color: white;
-  text-decoration: none;
+button:hover {
+  background-color: #4EA5D9;
 }
+
+
+
+
+

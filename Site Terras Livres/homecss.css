@@ -17,20 +17,21 @@ body{ background-image: url(homee.jpg);
 }
 
 button {
-  background-color: white;
+  background-color: black;
   border-radius: 50em;
   width: 150px;
   height: 40px;
-  color:black;
+  color:white;
   font-family: georgia;
-  font-size: large;
+  font-size: 20px;
   cursor: pointer;
-  border-color: black;
+  border-style: none;
+  position: relative;
   
 }
 
 button:hover {
-  background-color: #4EA5D9;
+  background-color: #39A0ED;
 }
 
 

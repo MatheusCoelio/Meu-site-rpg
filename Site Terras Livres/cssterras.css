@@ -1,14 +1,9 @@
 body { background-image: url(fundo_home.jpg); 
     background-attachment: fixed;
-    position: absolute;
     background-repeat: no-repeat;
     background-size: cover;
-    bottom: 0;
-    left: -10px;
-    right: -18px;
-    top: 0;
-    overflow: auto;
-    
+    width: 100%;
+    margin: 0%;
 }
 
 /* CABECALHO*/
@@ -40,35 +35,33 @@ li {
 }
 
 #corpo { background-color: #010B14;
-    float: bottom;
-    background-size: cover;
-    width: 100%;
-    opacity: 70%;    
-    
+        
+        
 }
 
 
 #titulo{ background-color: transparent;
     width: 100%;
     height: 500px;
-    position: center;
-    text-align: center ;
-    margin-left:3px;
-    margin-right: 3px;
+   text-align: center ;
     font-size: 50px;
-    display: block;
-    margin-bottom:200px;
+     margin-bottom:200px;
     margin-top: 300px;
+   
     
 }
 
 /* TEXTO*/
-div.texto {background-color: transparent;
+.texto {
+    
     color: white;
     font-family: georgia;
-    text-shadow: 2px 0px 5px black;
-    opacity: 90%;
+    margin-left: 15%; 
+    margin-right: 15%;
+    text-align: center;
+    
 }
+
 
 
 h1{color: white;
@@ -83,7 +76,7 @@ h1{color: white;
 h2{color: white;
     text-shadow: 2px 0px 8px black;
     font-family: georgia;
-                 
+    text-align: center;             
     
 }
 
